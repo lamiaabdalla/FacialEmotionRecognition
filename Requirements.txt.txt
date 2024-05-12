@@ -1,0 +1,6 @@
+Python 3.x
+TensorFlow 2.x
+OpenCV
+Matplotlib
+NumPy
+scikit-learn
